@@ -15,6 +15,9 @@ the installer will append this file to the app vendored assets here: 'vendor/ass
   top: 0;
   right: 0;
   left: 0;
+}
+
+.product-hover-zoom .drift-zoom-pane {
   height: 400px;
 }
 
