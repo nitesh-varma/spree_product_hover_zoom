@@ -14,7 +14,7 @@ Installation
 Add this extension to your Gemfile:
 
 ```ruby
-gem "spree_product_hover_zoom", :git => "git://github.com/vinzloh/spree_product_hover_zoom.git"
+gem 'spree_product_hover_zoom', github: 'nitesh-varma/spree_product_hover_zoom', branch: '3-6-stable'
 ```
 
 Then run:
